@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="1200" height="399" alt="Cover" src="https://github.com/user-attachments/assets/be7ad4bf-784a-4152-9d8e-1e5b9fe532ba" />
-</p>
+![Cover](./Cover.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
